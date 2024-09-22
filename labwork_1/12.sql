@@ -1,0 +1,1 @@
+SELECT p.Name FROM Production.ProductCategory as p
